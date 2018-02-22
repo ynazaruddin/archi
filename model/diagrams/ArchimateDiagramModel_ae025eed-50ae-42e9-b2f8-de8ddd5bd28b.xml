@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Collaboration"
+    name="C3-Application Cooperation"
     id="ae025eed-50ae-42e9-b2f8-de8ddd5bd28b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -220,19 +220,6 @@
         y="432"
         width="211"
         height="109"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="5d9bb5c5-3e55-41fb-a309-c936449fae8d"
-        targetConnections="b7c089f2-530b-45f1-a589-d1bae56c387d faf6bfcf-b086-4f22-bc8e-8478edda3bd8">
-      <bounds
-          x="84"
-          y="48"
-          width="97"
-          height="49"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationInterface"
-          href="ApplicationInterface_fa10db1d-2cc4-4048-8204-bf5983625cb4.xml#fa10db1d-2cc4-4048-8204-bf5983625cb4"/>
-    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_6de73444-eb96-46c7-9b73-dc6da18d5ad3.xml#6de73444-eb96-46c7-9b73-dc6da18d5ad3"/>
@@ -361,5 +348,18 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_88c331d4-90b6-4359-b9a8-7dc2b2aab062.xml#88c331d4-90b6-4359-b9a8-7dc2b2aab062"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5d9bb5c5-3e55-41fb-a309-c936449fae8d"
+      targetConnections="b7c089f2-530b-45f1-a589-d1bae56c387d faf6bfcf-b086-4f22-bc8e-8478edda3bd8">
+    <bounds
+        x="183"
+        y="360"
+        width="97"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_fa10db1d-2cc4-4048-8204-bf5983625cb4.xml#fa10db1d-2cc4-4048-8204-bf5983625cb4"/>
   </children>
 </archimate:ArchimateDiagramModel>
