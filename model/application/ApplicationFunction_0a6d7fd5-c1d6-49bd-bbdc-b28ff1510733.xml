@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verification"
+    id="0a6d7fd5-c1d6-49bd-bbdc-b28ff1510733"
+    documentation="provide flags such as site visit indicator and phone verification indicator for BTPN’s operation system to utilise the indicator information in order to perform verification activities outside of SM"/>

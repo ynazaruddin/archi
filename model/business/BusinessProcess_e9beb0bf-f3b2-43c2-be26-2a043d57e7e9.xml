@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Enrichment"
+    id="e9beb0bf-f3b2-43c2-be26-2a043d57e7e9"
+    documentation="Input from LOS:&#xA;- SDK&#xA;- Crawler&#xA;- Partner&#xA;- Telco&#xA;- E-Commerce&#xA;- Appsflyr&#xA;- Social Media"/>

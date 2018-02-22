@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pre-Screening"
+    id="76889429-a4c0-416a-acc0-85a1f658cb07"
+    documentation="Screening againts internal data(Knock Off) : negative list, Fraud check&#xA;&#xA;5. PRE-SCREEN DATA&#xA;-Negative Checking Result&#xA;- Fraud Checking result (Alert &amp; Final Result)&#xA;&#xA;6.VERIFICATION DATA&#xA;- Type of Verivication : Web/desk , phone visit&#xA; -Result &#xA;&#xA;7. Collateral data&#xA;- Type&#xA;- Market Value&#xA;- Appraisal type&#xA;-Total security (sudah dijaminkan)&#xA;&#xA;8. Scoring&#xA;9.Limit&#xA;10. Credit review&#xA;- Deviation Matrix&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorization"
+    id="2c3e03bc-173e-4e82-b118-0ee5eec53253"
+    documentation="provide best practice structure which provides limit authorization capability for future use"/>
